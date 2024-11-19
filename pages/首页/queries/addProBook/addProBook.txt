@@ -1,0 +1,15 @@
+INSERT INTO pro_book
+  (pro_name,date,stock,feed_plan,feed_actual,prod_value,rate,fuel_price,ops_price,pro_detail)
+VALUES
+(
+  {{ Select1.selectedOptionValue }},
+	{{ DatePicker1.formattedDate}},
+  {{ Input6.text }},
+  {{ Input7.text }},
+	{{ Input8.text}},
+	{{ Input8Copy.text }},
+	{{ Input7Copy.text}},
+	{{CurrencyInput1.text}},
+	{{CurrencyInput2.text}},
+	{{Input12.text}}
+);

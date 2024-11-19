@@ -1,0 +1,12 @@
+UPDATE pro_book
+SET pro_name={{Select1Copy.selectedOptionValue}},
+     date={{DatePicker1Copy.formattedDate}},
+     stock = {{ Input9.text }},
+     feed_plan= {{ Input10.text }},
+		 feed_actual={{Input11.text}},
+		 prod_value={{Input10Copy.text}},
+		 rate={{Input11Copy.text}},
+		 fuel_price={{CurrencyInput3.value}},
+		 ops_price={{CurrencyInput4.value}},
+		 pro_detail={{Input13.text}}
+WHERE id = {{ Table1.selectedRow.id }};

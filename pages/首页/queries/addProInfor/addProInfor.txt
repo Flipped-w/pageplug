@@ -1,0 +1,4 @@
+INSERT INTO pro_infor 
+  (pro_demo,pro_name) 
+VALUES 
+({{Input1.text}},{{Input2.text}});

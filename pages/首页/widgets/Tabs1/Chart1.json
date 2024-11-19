@@ -1,0 +1,107 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 36,
+    "widgetName": "Chart1",
+    "allowScroll": false,
+    "displayName": "Chart",
+    "iconSVG": "/static/media/icon.8eea39845729f7f4bfadeecd3810a09d.svg",
+    "searchTags": [
+        "graph",
+        "visuals",
+        "visualisations"
+    ],
+    "topRow": 30,
+    "bottomRow": 56,
+    "parentRowSpace": 10,
+    "type": "CHART_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 17,
+    "chartData": {"i1kcup63oq": {
+        "data": "[\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-09-10\"\n            },\n            {\n                \"y\": 109.9,\n                \"x\": \"2024-09-11\"\n            },\n            {\n                \"y\": 247.82,\n                \"x\": \"2024-09-12\"\n            },\n            {\n                \"y\": 249.1,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 175.3,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 85.63,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 203.22,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 107.68,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 28.54,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 75.72,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 236.2,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 171.78,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 271.6,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 326.82,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 174.24,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 107.42,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 90.07,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 57.91,\n                \"x\": \"2024-09-20\"\n            },\n            {\n                \"y\": 59.5,\n                \"x\": \"2024-09-21\"\n            },\n            {\n                \"y\": 174.1,\n                \"x\": \"2024-09-22\"\n            },\n            {\n                \"y\": 174.63,\n                \"x\": \"2024-09-23\"\n            },\n            {\n                \"y\": 175.9,\n                \"x\": \"2024-09-24\"\n            },\n            {\n                \"y\": 89.91,\n                \"x\": \"2024-09-25\"\n            },\n            {\n                \"y\": 90.71,\n                \"x\": \"2024-09-26\"\n            },\n            {\n                \"y\": 57.08,\n                \"x\": \"2024-09-27\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-09-28\"\n            },\n            {\n                \"y\": 30.15,\n                \"x\": \"2024-09-29\"\n            },\n            {\n                \"y\": 169.8,\n                \"x\": \"2024-09-30\"\n            },\n            {\n                \"y\": 53.67,\n                \"x\": \"2024-10-01\"\n            },\n            {\n                \"y\": 165.77,\n                \"x\": \"2024-10-02\"\n            },\n            {\n                \"y\": 220.27,\n                \"x\": \"2024-10-03\"\n            },\n            {\n                \"y\": 272.19,\n                \"x\": \"2024-10-04\"\n            },\n            {\n                \"y\": 248.37,\n                \"x\": \"2024-10-05\"\n            },\n            {\n                \"y\": 254.21,\n                \"x\": \"2024-10-06\"\n            },\n            {\n                \"y\": 26.41,\n                \"x\": \"2024-10-07\"\n            },\n            {\n                \"y\": 118.02,\n                \"x\": \"2024-10-08\"\n            },\n            {\n                \"y\": 175.27,\n                \"x\": \"2024-10-09\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-10-10\"\n            },\n            {\n                \"y\": 236.2,\n                \"x\": \"2024-10-11\"\n            },\n            {\n                \"y\": 238.84,\n                \"x\": \"2024-10-12\"\n            },\n            {\n                \"y\": 218.48,\n                \"x\": \"2024-10-13\"\n            },\n            {\n                \"y\": 240.88,\n                \"x\": \"2024-10-14\"\n            },\n            {\n                \"y\": 290.1,\n                \"x\": \"2024-10-15\"\n            },\n            {\n                \"y\": 170.8,\n                \"x\": \"2024-10-16\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-10-17\"\n            },\n            {\n                \"y\": 278.76,\n                \"x\": \"2024-10-18\"\n            },\n            {\n                \"y\": 110.4,\n                \"x\": \"2024-10-19\"\n            },\n            {\n                \"y\": 129.8,\n                \"x\": \"2024-10-20\"\n            },\n            {\n                \"y\": 155.1,\n                \"x\": \"2024-10-21\"\n            },\n            {\n                \"y\": 263.9,\n                \"x\": \"2024-10-22\"\n            },\n            {\n                \"y\": 191.74,\n                \"x\": \"2024-10-23\"\n            },\n            {\n                \"y\": 97.78,\n                \"x\": \"2024-10-24\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-10-25\"\n            },\n            {\n                \"y\": 104.4,\n                \"x\": \"2024-10-26\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-10-28\"\n            },\n            {\n                \"y\": 88.38,\n                \"x\": \"2024-10-29\"\n            }\n        ]",
+        "color": "#a16207",
+        "seriesName": ""
+    }},
+    "animateLoading": false,
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "parentColumnSpace": 14.002273559570312,
+    "dynamicTriggerPathList": [],
+    "dynamicBindingPathList": [
+        {"key": "customEChartConfig"},
+        {"key": "borderRadius"},
+        {"key": "boxShadow"},
+        {"key": "accentColor"},
+        {"key": "fontFamily"}
+    ],
+    "leftColumn": 0,
+    "customFusionChartConfig": {
+        "type": "column2d",
+        "dataSource": {
+            "data": [
+                {
+                    "label": "Product1",
+                    "value": 20000
+                },
+                {
+                    "label": "Product2",
+                    "value": 22000
+                },
+                {
+                    "label": "Product3",
+                    "value": 32000
+                }
+            ],
+            "chart": {
+                "legendIconSides": "4",
+                "canvasPadding": "0",
+                "captionAlignment": "center",
+                "yAxisNameFontSize": "14",
+                "caption": "Sales Report",
+                "labelFontColor": "#716e6e",
+                "chartLeftMargin": "20",
+                "captionFontSize": "24",
+                "chartTopMargin": "10",
+                "theme": "fusion",
+                "legendIconAlpha": "100",
+                "chartBottomMargin": "10",
+                "labelFontSize": "12",
+                "xAxisNameFontColor": "#716e6e",
+                "yAxisNameFontColor": "#716e6e",
+                "captionFontColor": "#231F20",
+                "yAxisValueFontColor": "#716e6e",
+                "captionPadding": "20",
+                "yAxisName": "Revenue($)",
+                "legendIconBgAlpha": "100",
+                "xAxisName": "Product Line",
+                "alignCaptionWithCanvas": 1,
+                "chartRightMargin": "40",
+                "legendPosition": "top",
+                "xAxisNameFontSize": "14",
+                "yAxisValueFontSize": "12"
+            }
+        }
+    },
+    "customEChartConfig": "{{\n{\n  \"dataset\": {\n    \"source\": [\n      [\n        \"Day\",\n        \"Baidu\",\n        \"Google\",\n        \"Bing\"\n      ],\n      [\n        \"Mon\",\n        620,\n        120,\n        60\n      ],\n      [\n        \"Tue\",\n        732,\n        132,\n        72\n      ],\n      [\n        \"Wed\",\n        701,\n        101,\n        71\n      ],\n      [\n        \"Thu\",\n        734,\n        134,\n        74\n      ],\n      [\n        \"Fri\",\n        1090,\n        290,\n        190\n      ],\n      [\n        \"Sat\",\n        1130,\n        230,\n        130\n      ],\n      [\n        \"Sun\",\n        1120,\n        220,\n        110\n      ]\n    ]\n  },\n  \"tooltip\": {\n    \"trigger\": \"axis\",\n    \"axisPointer\": {\n      \"type\": \"shadow\"\n    }\n  },\n  \"title\": {\n    \"text\": \"Search Engine Usage\",\n    \"left\": \"center\",\n    \"textStyle\": {\n      \"width\": 200,\n      \"overflow\": \"truncate\"\n    }\n  },\n  \"legend\": {\n    \"top\": 40,\n    \"type\": \"scroll\"\n  },\n  \"grid\": {\n    \"left\": 15,\n    \"right\": 15,\n    \"bottom\": 30,\n    \"top\": 100,\n    \"containLabel\": true\n  },\n  \"xAxis\": [\n    {\n      \"type\": \"category\"\n    }\n  ],\n  \"yAxis\": [\n    {\n      \"type\": \"value\"\n    }\n  ],\n  \"series\": [\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    }\n  ]\n}\n}}",
+    "flexVerticalAlignment": "start",
+    "showDataPointLabel": false,
+    "key": "yjiw2z1o0p",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "widgetId": "3bxtyiy6fc",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "k77ibathec",
+    "labelOrientation": "auto",
+    "tags": ["数据展示类"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 4,
+    "responsiveBehavior": "fill",
+    "yAxisName": "入库量（吨）",
+    "chartName": "入库趋势",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 0,
+    "xAxisName": "日期",
+    "chartType": "COLUMN_CHART"
+}

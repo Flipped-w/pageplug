@@ -1,0 +1,113 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "mobileBottomRow": 32,
+    "widgetName": "Chart4",
+    "allowScroll": false,
+    "displayName": "Chart",
+    "iconSVG": "/static/media/icon.8eea39845729f7f4bfadeecd3810a09d.svg",
+    "searchTags": [
+        "graph",
+        "visuals",
+        "visualisations"
+    ],
+    "topRow": 0,
+    "bottomRow": 29,
+    "parentRowSpace": 10,
+    "type": "CHART_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 39,
+    "chartData": {
+        "qvvhu5rtyt": {
+            "data": "[\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-10\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-11\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-12\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-20\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-21\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-22\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-23\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-24\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-25\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-26\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-27\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-28\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-29\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-09-30\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-01\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-02\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-03\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-04\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-05\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-06\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-07\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-08\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-09\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-10\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-11\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-12\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-13\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-14\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-15\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-16\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-17\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-18\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-19\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-20\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-21\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-22\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-23\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-24\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-25\"\n            },\n            {\n                \"y\": 312.0,\n                \"x\": \"2024-10-26\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-28\"\n            },\n            {\n                \"y\": 360.0,\n                \"x\": \"2024-10-29\"\n            }\n        ]",
+            "color": "#ec7474",
+            "seriesName": "计划"
+        },
+        "ssxp1qx45s": {
+            "data": "[\n            {\n                \"y\": 21.51,\n                \"x\": \"2024-09-10\"\n            },\n            {\n                \"y\": 157.26,\n                \"x\": \"2024-09-11\"\n            },\n            {\n                \"y\": 223.39,\n                \"x\": \"2024-09-12\"\n            },\n            {\n                \"y\": 225.23,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 0.0,\n                \"x\": \"2024-09-13\"\n            },\n            {\n                \"y\": 13.31,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 110.8,\n                \"x\": \"2024-09-14\"\n            },\n            {\n                \"y\": 186.88,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 62.86,\n                \"x\": \"2024-09-15\"\n            },\n            {\n                \"y\": 133.33,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 262.17,\n                \"x\": \"2024-09-16\"\n            },\n            {\n                \"y\": 132.23,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 262.17,\n                \"x\": \"2024-09-17\"\n            },\n            {\n                \"y\": 233.52,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 181.88,\n                \"x\": \"2024-09-18\"\n            },\n            {\n                \"y\": 169.69,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 74.57,\n                \"x\": \"2024-09-19\"\n            },\n            {\n                \"y\": 26.53,\n                \"x\": \"2024-09-20\"\n            },\n            {\n                \"y\": 138.43,\n                \"x\": \"2024-09-21\"\n            },\n            {\n                \"y\": 163.46,\n                \"x\": \"2024-09-22\"\n            },\n            {\n                \"y\": 157.26,\n                \"x\": \"2024-09-23\"\n            },\n            {\n                \"y\": 152.65,\n                \"x\": \"2024-09-24\"\n            },\n            {\n                \"y\": 167.56,\n                \"x\": \"2024-09-25\"\n            },\n            {\n                \"y\": 137.73,\n                \"x\": \"2024-09-26\"\n            },\n            {\n                \"y\": 38.24,\n                \"x\": \"2024-09-27\"\n            },\n            {\n                \"y\": 70.17,\n                \"x\": \"2024-09-28\"\n            },\n            {\n                \"y\": 39.64,\n                \"x\": \"2024-09-29\"\n            },\n            {\n                \"y\": 27.32,\n                \"x\": \"2024-09-30\"\n            },\n            {\n                \"y\": 95.13,\n                \"x\": \"2024-10-01\"\n            },\n            {\n                \"y\": 138.4,\n                \"x\": \"2024-10-02\"\n            },\n            {\n                \"y\": 250.75,\n                \"x\": \"2024-10-03\"\n            },\n            {\n                \"y\": 273.37,\n                \"x\": \"2024-10-04\"\n            },\n            {\n                \"y\": 289.08,\n                \"x\": \"2024-10-05\"\n            },\n            {\n                \"y\": 247.25,\n                \"x\": \"2024-10-06\"\n            },\n            {\n                \"y\": 83.7,\n                \"x\": \"2024-10-07\"\n            },\n            {\n                \"y\": 173.32,\n                \"x\": \"2024-10-08\"\n            },\n            {\n                \"y\": 156.19,\n                \"x\": \"2024-10-09\"\n            },\n            {\n                \"y\": 58.7,\n                \"x\": \"2024-10-10\"\n            },\n            {\n                \"y\": 238.0,\n                \"x\": \"2024-10-11\"\n            },\n            {\n                \"y\": 104.6,\n                \"x\": \"2024-10-12\"\n            },\n            {\n                \"y\": 178.2,\n                \"x\": \"2024-10-13\"\n            },\n            {\n                \"y\": 242.2,\n                \"x\": \"2024-10-14\"\n            },\n            {\n                \"y\": 249.6,\n                \"x\": \"2024-10-15\"\n            },\n            {\n                \"y\": 189.0,\n                \"x\": \"2024-10-16\"\n            },\n            {\n                \"y\": 158.8,\n                \"x\": \"2024-10-17\"\n            },\n            {\n                \"y\": 170.9,\n                \"x\": \"2024-10-18\"\n            },\n            {\n                \"y\": 210.6,\n                \"x\": \"2024-10-19\"\n            },\n            {\n                \"y\": 224.8,\n                \"x\": \"2024-10-20\"\n            },\n            {\n                \"y\": 170.1,\n                \"x\": \"2024-10-21\"\n            },\n            {\n                \"y\": 175.5,\n                \"x\": \"2024-10-22\"\n            },\n            {\n                \"y\": 167.7,\n                \"x\": \"2024-10-23\"\n            },\n            {\n                \"y\": 162.7,\n                \"x\": \"2024-10-24\"\n            },\n            {\n                \"y\": 171.4,\n                \"x\": \"2024-10-25\"\n            },\n            {\n                \"y\": 163.3,\n                \"x\": \"2024-10-26\"\n            },\n            {\n                \"y\": 48.81,\n                \"x\": \"2024-10-28\"\n            },\n            {\n                \"y\": 101.8,\n                \"x\": \"2024-10-29\"\n            }\n        ]",
+            "seriesName": "实际"
+        }
+    },
+    "animateLoading": false,
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "parentColumnSpace": 12.69970703125,
+    "dynamicTriggerPathList": [],
+    "dynamicBindingPathList": [
+        {"key": "customEChartConfig"},
+        {"key": "borderRadius"},
+        {"key": "boxShadow"},
+        {"key": "accentColor"},
+        {"key": "fontFamily"}
+    ],
+    "leftColumn": 0,
+    "customFusionChartConfig": {
+        "type": "column2d",
+        "dataSource": {
+            "data": [
+                {
+                    "label": "Product1",
+                    "value": 20000
+                },
+                {
+                    "label": "Product2",
+                    "value": 22000
+                },
+                {
+                    "label": "Product3",
+                    "value": 32000
+                }
+            ],
+            "chart": {
+                "legendIconSides": "4",
+                "canvasPadding": "0",
+                "captionAlignment": "center",
+                "yAxisNameFontSize": "14",
+                "caption": "Sales Report",
+                "labelFontColor": "#716e6e",
+                "chartLeftMargin": "20",
+                "captionFontSize": "24",
+                "chartTopMargin": "10",
+                "theme": "fusion",
+                "legendIconAlpha": "100",
+                "chartBottomMargin": "10",
+                "labelFontSize": "12",
+                "xAxisNameFontColor": "#716e6e",
+                "yAxisNameFontColor": "#716e6e",
+                "captionFontColor": "#231F20",
+                "yAxisValueFontColor": "#716e6e",
+                "captionPadding": "20",
+                "yAxisName": "Revenue($)",
+                "legendIconBgAlpha": "100",
+                "xAxisName": "Product Line",
+                "alignCaptionWithCanvas": 1,
+                "chartRightMargin": "40",
+                "legendPosition": "top",
+                "xAxisNameFontSize": "14",
+                "yAxisValueFontSize": "12"
+            }
+        }
+    },
+    "customEChartConfig": "{{\n{\n  \"dataset\": {\n    \"source\": [\n      [\n        \"Day\",\n        \"Baidu\",\n        \"Google\",\n        \"Bing\"\n      ],\n      [\n        \"Mon\",\n        620,\n        120,\n        60\n      ],\n      [\n        \"Tue\",\n        732,\n        132,\n        72\n      ],\n      [\n        \"Wed\",\n        701,\n        101,\n        71\n      ],\n      [\n        \"Thu\",\n        734,\n        134,\n        74\n      ],\n      [\n        \"Fri\",\n        1090,\n        290,\n        190\n      ],\n      [\n        \"Sat\",\n        1130,\n        230,\n        130\n      ],\n      [\n        \"Sun\",\n        1120,\n        220,\n        110\n      ]\n    ]\n  },\n  \"tooltip\": {\n    \"trigger\": \"axis\",\n    \"axisPointer\": {\n      \"type\": \"shadow\"\n    }\n  },\n  \"title\": {\n    \"text\": \"Search Engine Usage\",\n    \"left\": \"center\",\n    \"textStyle\": {\n      \"width\": 200,\n      \"overflow\": \"truncate\"\n    }\n  },\n  \"legend\": {\n    \"top\": 40,\n    \"type\": \"scroll\"\n  },\n  \"grid\": {\n    \"left\": 15,\n    \"right\": 15,\n    \"bottom\": 30,\n    \"top\": 100,\n    \"containLabel\": true\n  },\n  \"xAxis\": [\n    {\n      \"type\": \"category\"\n    }\n  ],\n  \"yAxis\": [\n    {\n      \"type\": \"value\"\n    }\n  ],\n  \"series\": [\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    },\n    {\n      \"type\": \"bar\",\n      \"stack\": \"Search Engine\"\n    }\n  ]\n}\n}}",
+    "flexVerticalAlignment": "start",
+    "showDataPointLabel": false,
+    "key": "6biianqvo3",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "widgetId": "q6c48xjysa",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "k77ibathec",
+    "labelOrientation": "auto",
+    "tags": ["数据展示类"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 0,
+    "responsiveBehavior": "fill",
+    "yAxisName": "投喂量（吨）",
+    "chartName": "投喂趋势",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 15,
+    "xAxisName": "日期",
+    "chartType": "LINE_CHART"
+}

@@ -1,0 +1,3 @@
+UPDATE pro_infor
+SET pro_demo={{Input4.text}},pro_name={{Input5.text}} 
+WHERE id = {{List1.selectedItem.id}} ;
